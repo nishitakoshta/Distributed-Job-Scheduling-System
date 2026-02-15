@@ -1,0 +1,5 @@
+rootProject.name = 'job-platform'
+
+include 'job-common'
+include 'job-scheduler'
+include 'job-worker'
